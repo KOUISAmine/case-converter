@@ -1,2 +1,5 @@
-# case-converter
-Convert your text to any kind of text case, such as lowercase, UPPERCASE, camelCase...etc.
+# Case Converter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+>Convert your text to any kind of text case, such as lowercase, UPPERCASE, camelCase...etc.
+
+Try demo: https://tools.waytolearnx.com/case-converter
